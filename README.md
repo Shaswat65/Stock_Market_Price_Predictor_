@@ -1,4 +1,4 @@
-#Stock Price Prediction using Machine Learning
+Stock Price Prediction using Machine Learning
 Overview
 
 This project is a stock price prediction system built using Python and Machine Learning. It fetches real-time stock data and predicts future prices using a Linear Regression model.
