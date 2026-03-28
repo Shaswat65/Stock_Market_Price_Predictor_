@@ -25,8 +25,11 @@ Scikit-learn
 Matplotlib
 
 Project Structure
+
 📁 Stock-Prediction
+
 │── mini project.py
+
 │── README.md
 
 Installation
